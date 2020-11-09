@@ -1,0 +1,11 @@
+public class Main {
+    public static void main(String[] args) {
+        String Names [] = {"Мама","Мыла","Раму"};
+        System.out.println( Names[0]+Names[1]+Names[2] );
+        System.out.println( Names[0]+Names[2]+Names[1] );
+        System.out.println( Names[1]+Names[2]+Names[0] );
+        System.out.println( Names[1]+Names[0]+Names[1] );
+        System.out.println( Names[2]+Names[1]+Names[0] );
+        System.out.println( Names[2]+Names[0]+Names[1] );
+        }
+      }
